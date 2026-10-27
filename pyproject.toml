@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "coordconvertergc"
+version = "0.1.0"
+description = "A Python package for converting geographic coordinates between degrees, minutes, seconds and decimal degrees."
+authors = ["Gracious Chinguwo"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.1.1,<10.0.0)"
+]
