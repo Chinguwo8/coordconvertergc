@@ -61,7 +61,7 @@ Contributions are welcome. Please read the contributing guidelines and code of c
 This project is licensed under the MIT License. See the LICENSE file for details. 
 
 ## Project links
-- GitHub repository: Add your repository URL after publishing the code.
+- GitHub repository: https://github.com/Chinguwo8/coordconvertergc
 
 - PyPI package: https://pypi.org/project/coordconvertergc/
 
